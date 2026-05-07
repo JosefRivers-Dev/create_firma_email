@@ -26,13 +26,13 @@ Desarrollada con HTML, CSS y JavaScript puro, incluye selección de logo, valida
 ```
 project/
 │
-├── index.html          # Interfaz principal
+├── index.html
 ├── css/
-│   └── styles.css      # Estilos globales y layout
+│   └── styles.css
 ├── js/
-│   ├── app.js          # Lógica principal: formulario, firma, copia, Supabase
-│   └── templates.js    # Plantilla HTML de la firma (variable `firmaTemplates`)
-├── Images/             # Logos seleccionables (1.jpg ... 6.jpg)
+│   ├── app.js
+│   └── templates.js
+├── Images/
 └── README.md
 ```
 
