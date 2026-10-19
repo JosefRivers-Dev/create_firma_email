@@ -10,17 +10,17 @@ const firmaTemplates = {
     <div style="float: left; width: 65%;">
 
       <!-- Nombre completo -->
-      <div style="font-size: 21.33px; font-weight: bold; color: #EB003F; margin: 0 0 2px 0;">
+      <div style="font-size: 20px; font-weight: bold; color: #EB003F; margin: 0 0 2px 0;">
         {{nombre}} {{apellidoPaterno}} {{apellidoMaterno}}
       </div>
 
       <!-- Puesto -->
-      <div style="font-size: 21.33px; font-weight: bold; color: #000000; margin: 0 0 4px 0;">
+      <div style="font-size: 20px; font-weight: bold; color: #000000; margin: 0 0 4px 0;">
         Reclutador | {{puesto}}
       </div>
 
       <!-- Espacio -->
-      <div style="font-size: 10.67px; color: #ffffff; margin: 0 0 2px 0;">
+      <div style="font-size: 5px; color: #ffffff; margin: 0 0 2px 0;">
          .
       </div>
 
@@ -47,7 +47,7 @@ const firmaTemplates = {
       </div>
 
       <!-- Empresa (segundo) -->
-      <div style="font-size: 16px; font-weight: bold; color: #000000; margin: 0 0 2px 0;">
+      <div style="font-size: 14px; font-weight: bold; color: #000000; margin: 0 0 2px 0;">
         CEDIS Nombre
       </div>
 
@@ -75,20 +75,22 @@ const firmaTemplates = {
     </div>
 
     <!-- Texto complementario -->
-    <div style="color: #EB003F; margin: 0 0 2px 0;">
+    <div style="color: #EB003F; font-weight: bold; margin: 0 0 2px 0;">
       ¿Quejas o sugerencias? calidadmx@adecco.com | Adecco Te Escucha | Programa de Satisfacción del Cliente
     </div>
 
     <!-- Texto de políticas -->
-    <div style="color: #595959; margin: 0 0 2px 0;">
+    <div style="color: #595959; font-weight: bold; margin: 0 0 2px 0;">
       5ta empresa más atractiva del mundo para trabajar - "Los mejores lugares para trabajar en el mundo | World’s Best Workplaces" 2018
       <!-- Espacio -->
-      <div style="font-size: 10.67px; color: #ffffff; margin: 0 0 2px 0;">
+      
+      <div style="font-size: 10.67px; font-weight: bold; color: #00B050; margin: 0 0 2px 0;">
          .
       </div>
       Antes de imprimir un documento, analiza si es necesario y hazlo a doble cara. Por una cultura PAPERLESS conoce nuestra política ambiental.
       <!-- Espacio -->
-      <div style="font-size: 10.67px; color: #ffffff; margin: 0 0 2px 0;">
+      
+      <div style="font-size: 10.67px; font-weight: bold; color: #ffffff; margin: 0 0 2px 0;">
          .
       </div>
       Este correo electrónico y cualquier archivo transmitido con él son confidenciales y están destinados exclusivamente para el uso de la persona o entidad a la que se dirigen. Puede contener información legalmente privilegiada y no puede divulgarse a nadie más. Si recibió este correo electrónico por error, notifique al remitente y elimine todas las copias de su sistema. Cualquier opinión expresada en este correo electrónico puede ser personal del autor y no necesariamente refleja las opiniones de la Compañía o sus afiliados.
