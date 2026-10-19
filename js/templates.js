@@ -16,7 +16,7 @@ const firmaTemplates = {
 
       <!-- Puesto -->
       <div style="font-size: 21.33px; font-weight: bold; color: #000000; margin: 0 0 4px 0;">
-        {{puesto}}
+        Reclutador | {{puesto}}
       </div>
 
       <!-- Espacio -->
@@ -31,7 +31,7 @@ const firmaTemplates = {
 
       <!-- Sede y Reclutamiento -->
       <div style="font-size: 16px; font-weight: bold; color: #000000; margin: 0 0 2px 0;">
-        División {{zona}} | Reclutamiento 
+        {{zona}} de México | CEDIS 
       </div>
 
       <!-- Teléfono -->
@@ -47,8 +47,8 @@ const firmaTemplates = {
       </div>
 
       <!-- Empresa (segundo) -->
-      <div style="font-size: 13.33px; color: #595959; margin: 0 0 2px 0;">
-        Adecco México
+      <div style="font-size: 16px; font-weight: bold; color: #000000; margin: 0 0 2px 0;">
+        CEDIS Nombre
       </div>
 
       <!-- Dirección -->
