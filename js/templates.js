@@ -52,7 +52,7 @@ const firmaTemplates = {
       </div>
 
       <!-- Dirección -->
-      <div style="font-size: 13.33px; color: #595959; margin: 0 0 2px 0;">
+      <div style="font-size: 14px; color: #595959; margin: 0 0 2px 0;">
         {{direccion}}
       </div>
 
@@ -67,7 +67,7 @@ const firmaTemplates = {
   <div style="clear: both;"></div>
 
   <!-- Textos finales -->
-  <div style="font-size: 13.33px; line-height: 1.4;">
+  <div style="font-size: 14px; line-height: 1.4;">
 
     <!-- Página web (enlace) -->
     <div style="margin: 0 0 2px 0;">
@@ -83,14 +83,14 @@ const firmaTemplates = {
     <div style="color: #595959; font-weight: bold; margin: 0 0 2px 0;">
       5ta empresa más atractiva del mundo para trabajar - "Los mejores lugares para trabajar en el mundo | World’s Best Workplaces" 2018
       <!-- Espacio -->
-      
-      <div style="font-size: 10.67px; font-weight: bold; color: #00B050; margin: 0 0 2px 0;">
+      <div style="font-size: 10px; color: #ffffff; margin: 0 0 2px 0;">
          .
       </div>
+      <div style="font-size: 14px; color: #00B050; font-weight: bold; margin: 0 0 2px 0;">
       Antes de imprimir un documento, analiza si es necesario y hazlo a doble cara. Por una cultura PAPERLESS conoce nuestra política ambiental.
+      </div>
       <!-- Espacio -->
-      
-      <div style="font-size: 10.67px; font-weight: bold; color: #ffffff; margin: 0 0 2px 0;">
+      <div style="font-size: 10px; color: #ffffff; margin: 0 0 2px 0;">
          .
       </div>
       Este correo electrónico y cualquier archivo transmitido con él son confidenciales y están destinados exclusivamente para el uso de la persona o entidad a la que se dirigen. Puede contener información legalmente privilegiada y no puede divulgarse a nadie más. Si recibió este correo electrónico por error, notifique al remitente y elimine todas las copias de su sistema. Cualquier opinión expresada en este correo electrónico puede ser personal del autor y no necesariamente refleja las opiniones de la Compañía o sus afiliados.
