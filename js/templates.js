@@ -52,7 +52,7 @@ const firmaTemplates = {
       </div>
 
       <!-- Dirección -->
-      <div style="font-size: 14px; color: #595959; margin: 0 0 2px 0;">
+      <div style="font-size: 14px; font-weight: bold; color: #595959; margin: 0 0 2px 0;">
         {{direccion}}
       </div>
 
