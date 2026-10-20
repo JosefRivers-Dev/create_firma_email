@@ -41,8 +41,8 @@ const firmaTemplates = {
 
       <!-- Correo -->
       <div style="margin: 0 0 4px 0;">
-        <a href="mailto:{{correo}}" style="font-size: 16px; color: #000000; text-decoration: none;">
-          <a href="{{correo}}" style="color: #000000; text-decoration: underline;">{{correo}}</a>
+        <a href="mailto:{{correo}}" style="font-size: 16px; color: #49A4F9; text-decoration: none;">
+          <a href="{{correo}}" style="color: #49A4F9; text-decoration: underline;">{{correo}}</a>
         </a>
       </div>
 
@@ -71,7 +71,7 @@ const firmaTemplates = {
 
     <!-- Página web (enlace) -->
     <div style="margin: 0 0 2px 0;">
-      <a href="http://www.adecco.com/es-mx" style="color: #000000; text-decoration: underline;">www.adecco.com/es-mx</a>
+      <a href="http://www.adecco.com/es-mx" style="color: #49A4F9; text-decoration: underline;">www.adecco.com/es-mx</a>
     </div>
 
     <!-- Texto complementario -->
@@ -86,7 +86,7 @@ const firmaTemplates = {
       <div style="font-size: 10px; color: #ffffff; margin: 0 0 2px 0;">
          .
       </div>
-      <div style="font-size: 14px; color: #00B050; font-weight: bold; margin: 0 0 2px 0;">
+      <div style="color: #45BE71; font-weight: bold; margin: 0 0 2px 0;">
       Antes de imprimir un documento, analiza si es necesario y hazlo a doble cara. Por una cultura PAPERLESS conoce nuestra política ambiental.
       </div>
       <!-- Espacio -->
