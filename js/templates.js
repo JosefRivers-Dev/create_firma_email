@@ -52,7 +52,7 @@ const firmaTemplates = {
       </div>
 
       <!-- Dirección -->
-      <div style="font-size: 14px; font-weight: bold; color: #595959; margin: 0 0 2px 0;">
+      <div style="font-size: 14px; color: #595959; margin: 0 0 2px 0;">
         {{direccion}}
       </div>
 
@@ -75,18 +75,18 @@ const firmaTemplates = {
     </div>
 
     <!-- Texto complementario -->
-    <div style="color: #EB003F; font-weight: bold; margin: 0 0 2px 0;">
+    <div style="color: #EB003F; margin: 0 0 2px 0;">
       ¿Quejas o sugerencias? calidadmx@adecco.com | Adecco Te Escucha | Programa de Satisfacción del Cliente
     </div>
 
     <!-- Texto de políticas -->
-    <div style="color: #595959; font-weight: bold; margin: 0 0 2px 0;">
+    <div style="color: #595959; margin: 0 0 2px 0;">
       5ta empresa más atractiva del mundo para trabajar - "Los mejores lugares para trabajar en el mundo | World’s Best Workplaces" 2018
       <!-- Espacio -->
       <div style="font-size: 10px; color: #ffffff; margin: 0 0 2px 0;">
          .
       </div>
-      <div style="color: #45BE71; font-weight: bold; margin: 0 0 2px 0;">
+      <div style="color: #45BE71; margin: 0 0 2px 0;">
       Antes de imprimir un documento, analiza si es necesario y hazlo a doble cara. Por una cultura PAPERLESS conoce nuestra política ambiental.
       </div>
       <!-- Espacio -->
